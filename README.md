@@ -7,3 +7,5 @@ Git is mind blowing
 Today is Friday and it is sunny
 
 Hello
+
+Git rebase remote
